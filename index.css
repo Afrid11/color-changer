@@ -24,7 +24,6 @@ body {
     border-radius: 50%;
     font-size: 40px;
     background-image: linear-gradient(violet,indigo,blue,green,yellow,orange,red);
-    opacity: 90%;
     text-align: center;
     
 }
